@@ -1,0 +1,23 @@
+name: mfelat
+favicon: null
+layout_spectrum: 0.45341465063393116
+typography_spectrum: 0.7864289972931147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6790151176974177
+  lightness: 0.056312405271455646
+  saturation: 0.7705023640301079
+  rhythmicContrast: 0.6155510467942804
+purpose: []
