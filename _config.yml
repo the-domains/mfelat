@@ -2,7 +2,9 @@ name: Mesut Felat Photography
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.31012
-title: 'Profesyonel Fotoğrafçı, Fotoğraf eğitmeni, Doğa, manzara, portre ve gezi fotoğrafçılığı. Film, kısa film, timelapse prodüksiyon, havadan çekim..'
+title: >-
+  Profesyonel Fotoğrafçı, Fotoğraf eğitmeni, Doğa, manzara, portre ve gezi
+  fotoğrafçılığı. Film, kısa film, timelapse prodüksiyon, havadan çekim..
 cta:
   domain: null
   bucket: null
@@ -16,7 +18,12 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#647080'
+    - '#b9babe'
+    - '#ffffff'
+    - '#fccc00'
+    - '#0b1300'
   brandStrength: 0.6790151176974177
   lightness: 0.056312405271455646
   saturation: 0.7705023640301079
